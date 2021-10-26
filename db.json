@@ -3,6 +3,8 @@
     {
       "id": 1,
       "cartQuantity": 0,
+      "shortName": "YX1",
+      "cartIcon": "/images/cart/image-yx1-earphones.jpg",
       "slug": "yx1-earphones",
       "name": "YX1 Wireless Earphones",
       "image": {
@@ -92,6 +94,8 @@
     {
       "id": 2,
       "cartQuantity": 0,
+      "shortName": "XX59",
+      "cartIcon": "/images/cart/image-xx59-headphones.jpg",
       "slug": "xx59-headphones",
       "name": "XX59 Headphones",
       "image": {
@@ -177,6 +181,8 @@
     {
       "id": 3,
       "cartQuantity": 0,
+      "shortName": "XX99 MARK I",
+      "cartIcon": "/images/cart/image-xx99-mark-one-headphones.jpg",
       "slug": "xx99-mark-one-headphones",
       "name": "XX99 Mark I Headphones",
       "image": {
@@ -262,6 +268,8 @@
     {
       "id": 4,
       "cartQuantity": 0,
+      "shortName": "XX99 MARK II",
+      "cartIcon": "/images/cart/image-xx99-mark-two-headphones.jpg",
       "slug": "xx99-mark-two-headphones",
       "name": "XX99 Mark II Headphones",
       "image": {
@@ -351,6 +359,8 @@
     {
       "id": 5,
       "cartQuantity": 0,
+      "shortName": "ZX7",
+      "cartIcon": "/images/cart/image-product-zx7-speaker.jpg",
       "slug": "zx7-speaker",
       "name": "ZX7 Speaker",
       "image": {
@@ -440,6 +450,8 @@
     {
       "id": 6,
       "cartQuantity": 0,
+      "shortName": "ZX9",
+      "cartIcon": "/images/cart/image-zx9-speaker.jpg",
       "slug": "zx9-speaker",
       "name": "ZX9 Speaker",
       "image": {
